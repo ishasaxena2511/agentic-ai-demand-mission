@@ -12,7 +12,6 @@ This project is designed to simulate **real-world retail & supply chain intellig
 - 🧠 Automatically understands data structure (dates, products, regions, demand)
 - 🔮 Forecasts demand for **3–90 day horizons**
 - 📊 Transparent visual dashboards (bars, heatmaps, trends)
-- 📦 Inventory-aware recommendations (manual input or inventory file upload)
 - 🗺️ Hub-based mission route planning (no paid APIs)
 - 👤 Human-centric AI insights (decision support, not commands)
 
@@ -24,7 +23,6 @@ Businesses often struggle to:
 - Understand **which products are in demand**
 - Identify **where demand is emerging**
 - Predict **future demand accurately**
-- Allocate inventory efficiently under stock constraints
 - Plan logistics without expensive APIs
 
 This system addresses all of the above using **local, open-source AI models** and **agent-based intelligence**.
@@ -47,15 +45,11 @@ The system is built using multiple cooperating AI agents:
    - Aggregates product & region demand
    - Builds ranked insights and heatmaps
 
-4. **Inventory Awareness Layer**
-   - Accepts manual stock input OR inventory CSV
-   - Adjusts recommendations based on available stock
-
-5. **Decision Insight Agent**
+4. **Decision Insight Agent**
    - Converts forecasts into **human-readable business insights**
    - Avoids commanding language (decision support only)
 
-6. **Geo Navigation Agent**
+5. **Geo Navigation Agent**
    - Performs hub-based route optimization
    - Estimates distance, ETA, and fuel cost (offline)
 
@@ -79,11 +73,6 @@ The system is built using multiple cooperating AI agents:
 - City-wise breakdown per product
 - Forecast-aware demand estimation
 - Inventory-adjusted supply suggestions
-
-### 📦 Inventory Integration (Optional)
-- Manual stock input per product
-- OR upload inventory CSV
-- AI adapts recommendations automatically
 
 ### 🗺️ Mission Route Planning
 - Warehouse selection
@@ -114,4 +103,5 @@ pip install -r requirements.txt
 streamlit run app_agentic.py
 
 ---
+
 
