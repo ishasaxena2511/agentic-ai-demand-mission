@@ -1,0 +1,56 @@
+transaction_date,delivery_region,demographic,item_category,quantity
+2025-04-01,Uttar Pradesh,25-34,Groceries,650
+2025-04-02,Bihar,35-44,Personal Care,420
+2025-04-03,West Bengal,18-24,Beverages,750
+2025-04-04,Madhya Pradesh,45-54,Cleaning Supplies,350
+2025-04-05,Rajasthan,55+,Groceries,580
+2025-04-06,Uttar Pradesh,35-44,Personal Care,430
+2025-04-07,Bihar,25-34,Beverages,780
+2025-04-08,West Bengal,45-54,Cleaning Supplies,360
+2025-04-09,Madhya Pradesh,18-24,Groceries,680
+2025-04-10,Rajasthan,35-44,Personal Care,410
+2025-04-11,Uttar Pradesh,18-24,Beverages,800
+2025-04-12,Bihar,55+,Cleaning Supplies,320
+2025-04-13,West Bengal,25-34,Groceries,700
+2025-04-14,Madhya Pradesh,35-44,Personal Care,450
+2025-04-15,Rajasthan,45-54,Beverages,720
+2025-04-16,Uttar Pradesh,25-34,Cleaning Supplies,380
+2025-04-17,Bihar,35-44,Groceries,660
+2025-04-18,West Bengal,18-24,Personal Care,440
+2025-04-19,Madhya Pradesh,55+,Beverages,700
+2025-04-20,Rajasthan,25-34,Cleaning Supplies,390
+2025-04-21,Uttar Pradesh,45-54,Groceries,620
+2025-04-22,Bihar,18-24,Personal Care,460
+2025-04-23,West Bengal,35-44,Beverages,820
+2025-04-24,Madhya Pradesh,25-34,Cleaning Supplies,400
+2025-04-25,Rajasthan,55+,Groceries,590
+2025-04-26,Uttar Pradesh,35-44,Beverages,830
+2025-04-27,Bihar,25-34,Groceries,690
+2025-04-28,West Bengal,45-54,Personal Care,400
+2025-04-29,Madhya Pradesh,18-24,Cleaning Supplies,370
+2025-04-30,Rajasthan,35-44,Beverages,760
+2025-05-01,Uttar Pradesh,55+,Groceries,610
+2025-05-02,Bihar,18-24,Personal Care,480
+2025-05-03,West Bengal,25-34,Beverages,850
+2025-05-04,Madhya Pradesh,45-54,Cleaning Supplies,410
+2025-05-05,Rajasthan,35-44,Groceries,640
+2025-05-06,Uttar Pradesh,25-34,Personal Care,470
+2025-05-07,Bihar,45-54,Beverages,860
+2025-05-08,West Bengal,18-24,Cleaning Supplies,380
+2025-05-09,Madhya Pradesh,35-44,Groceries,710
+2025-05-10,Rajasthan,55+,Personal Care,390
+2025-05-11,Uttar Pradesh,18-24,Beverages,880
+2025-05-12,Bihar,25-34,Cleaning Supplies,420
+2025-05-13,West Bengal,35-44,Groceries,720
+2025-05-14,Madhya Pradesh,45-54,Personal Care,490
+2025-05-15,Rajasthan,18-24,Beverages,840
+2025-05-16,Uttar Pradesh,35-44,Cleaning Supplies,430
+2025-05-17,Bihar,55+,Groceries,630
+2025-05-18,West Bengal,25-34,Personal Care,500
+2025-05-19,Madhya Pradesh,18-24,Beverages,890
+2025-05-20,Rajasthan,45-54,Cleaning Supplies,440
+2025-05-21,Uttar Pradesh,35-44,Groceries,730
+2025-05-22,Bihar,25-34,Personal Care,510
+2025-05-23,West Bengal,55+,Beverages,870
+2025-05-24,Madhya Pradesh,18-24,Groceries,740
+2025-05-25,Rajasthan,35-44,Cleaning Supplies,450

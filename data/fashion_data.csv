@@ -1,0 +1,57 @@
+sale_timestamp,location,age_group,style_category,items_sold
+2025-10-01,Maharashtra,25-34,T-Shirts,450
+2025-10-02,Delhi,18-24,Dresses,380
+2025-10-03,Karnataka,35-44,Jeans,320
+2025-10-04,Punjab,25-34,Formal Wear,250
+2025-10-05,Goa,,T-Shirts,500
+2025-10-06,Maharashtra,18-24,Dresses,420
+2025-10-07,Delhi,35-44,Jeans,340
+2025-10-08,Karnataka,25-34,T-Shirts,600
+2025-10-09,Haryana,,Formal Wear,280
+2025-10-10,Rajasthan,18-24,Dresses,450
+2025-10-11,Maharashtra,35-44,Jeans,360
+2025-10-12,Delhi,25-34,T-Shirts,650
+2025-10-13,Karnataka,18-24,Formal Wear,300
+2025-10-14,Gujarat,,Dresses,480
+2025-10-15,West Bengal,35-44,Jeans,310
+2025-10-16,Maharashtra,25-34,T-Shirts,700
+2025-10-17,Delhi,18-24,Jeans,400
+2025-10-18,Karnataka,35-44,Dresses,500
+2025-10-19,Telangana,,Formal Wear,260
+2025-10-20,Uttar Pradesh,25-34,T-Shirts,550
+2025-10-21,Maharashtra,18-24,Jeans,420
+2025-10-22,Delhi,35-44,T-Shirts,800
+2025-10-23,Karnataka,,Dresses,520
+2025-10-24,Andhra Pradesh,25-34,Jeans,350
+2025-10-25,Kerala,18-24,Formal Wear,320
+2025-10-26,Maharashtra,35-44,T-Shirts,750
+2025-10-27,Delhi,25-34,Dresses,550
+2025-10-28,Karnataka,18-24,Jeans,440
+2025-10-29,Madhya Pradesh,,T-Shirts,620
+2025-10-30,Odisha,35-44,Formal Wear,290
+2025-10-31,Maharashtra,18-24,Dresses,580
+2025-11-01,Delhi,25-34,Jeans,460
+2025-11-02,Karnataka,35-44,T-Shirts,850
+2025-11-03,Assam,,Dresses,400
+2025-11-04,Bihar,18-24,Jeans,380
+2025-11-05,Maharashtra,25-34,Formal Wear,350
+2025-11-06,Delhi,35-44,Dresses,600
+2025-11-07,Karnataka,18-24,T-Shirts,900
+2025-11-08,Chhattisgarh,,Jeans,330
+2025-11-09,Jharkhand,25-34,Dresses,530
+2025-11-10,Maharashtra,35-44,T-Shirts,880
+2025-11-11,Delhi,18-24,Formal Wear,370
+2025-11-12,Karnataka,,Jeans,480
+2025-11-13,Uttarakhand,35-44,Dresses,470
+2025-11-14,Himachal Pradesh,25-34,T-Shirts,720
+2025-11-15,Maharashtra,18-24,Jeans,500
+2025-11-16,Delhi,35-44,Dresses,620
+2025-11-17,Karnataka,25-34,Formal Wear,400
+2025-11-18,Puducherry,,T-Shirts,680
+2025-11-19,Chandigarh,18-24,Jeans,450
+2025-11-20,Maharashtra,35-44,Dresses,650
+2025-11-21,Delhi,,T-Shirts,950
+2025-11-22,Karnataka,25-34,Jeans,520
+2025-11-23,Goa,18-24,Dresses,540
+2025-11-24,Maharashtra,35-44,Formal Wear,420
+2025-11-25,Delhi,25-34,T-Shirts,920
